@@ -1,2 +1,2 @@
-# php-basic-website
-Simple website to learn PHP in HTML
+# media-site-sql-php
+Use SQL to use databases for PHP
